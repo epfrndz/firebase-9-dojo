@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "firebase": "^9.8.2"
   },
   "devDependencies": {
     "webpack": "^5.38.1",
